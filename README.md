@@ -1,1 +1,5 @@
-# Perf2-Conditional-Statements-and-Loops
+references:
+https://eloquentjavascript.net/
+https://www.w3schools.com/js/
+https://developer.mozilla.org/en-US/docs
+/Web/JavaScript
